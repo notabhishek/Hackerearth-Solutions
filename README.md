@@ -1,5 +1,5 @@
-# ThinkTwiceCodeOnce
-Almost every piece of code that I wrote
+# Hackerearth Solutions
+Solutions to Hackerearth Practice Problems
 
-Catch me at -abhitiwari8889506983@gmail.com
+Catch me at -beastonthelease@gmail.com
 
